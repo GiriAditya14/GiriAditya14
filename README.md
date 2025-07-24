@@ -7,8 +7,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityagiri14/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adityagiri)
-[![Codeforces](https://img.shields.io/badge/Codeforces-181717?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/adityagiri)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-181717?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.2004.giri@gmail.com)
 
 </div>
@@ -82,7 +82,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - 🔐 JWT Auth, User Profiles, Video Uploads via Cloudinary  
 - 💬 Tweets, Likes, Comments, Subscriptions, Playlists  
 - 📊 Creator Dashboard with Statistics API  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/videotube) | [Live Demo](#)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/videotube-backend) | [Live Demo](#)
 
 ### 💬 TalkNest – Real-Time Chat App  
 > *Socket.io-based private messaging with status indicators*
@@ -98,7 +98,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - 🧑‍🏫 Teacher-student role-based access  
 - 📷 Image/typed doubt submission  
 - 📹 ZEGO Cloud video calling + feedback system  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/educonnect)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/education)
 
 ### 🏢 EventSphere – Event Management System  
 > *Finalist at Arma Code 0, IISER Bhopal*
@@ -106,7 +106,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - 🧑‍💼 Admin, Organizer, User roles with secure access  
 - 🔍 Event discovery, filtering, and registration  
 - 🚀 Fully tested REST APIs with robust MVC architecture  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/eventsphere)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/code-sphere)
 
 ### 🧠 SkillBridge – Microlearning for Underserved Students  
 > *Finalist at Hack36 MNNIT Allahabad*
@@ -114,7 +114,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - 🧑‍🏫 Mentor-matching with Socket.io and JWT  
 - 💬 Gemini AI fallback when teachers unavailable  
 - 📹 ZEGO Cloud video communication  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/skillbridge)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/SkillBridge)
 
 ### 🏗️ Multi-Tenant Website Builder  
 > *Finalist at Code Urja 1.0*
@@ -122,7 +122,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - 🔑 Tenant-specific data handling  
 - 🤖 Gemini API for AI-powered frontend generation  
 - 🧩 Dynamic modular content & layout system  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/website-builder)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/code_urja)
 
 ---
 
