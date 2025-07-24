@@ -90,7 +90,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - ⚡ Instant Messaging with Zustand & Socket.io  
 - 🎨 TailwindCSS + DaisyUI for clean, responsive UI  
 - 🔒 Auth with JWT + full error handling  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/talknest) | [Live Demo](talknest-evpa.onrender.com)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/talknest) | [Live Demo](https://talknest-evpa.onrender.com/)
 
 ### 🎓 EduConnect – 1-on-1 Doubt Solving Platform  
 > *Built for NIT Patna ByteVerse 7.0 – Finalist*
