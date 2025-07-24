@@ -21,14 +21,14 @@ I’m **Aditya Giri**, a driven and detail-oriented **Full Stack MERN Developer*
 
 ### 💼 What I Bring to the Table
 - 🏆 **6x National Hackathon Finalist** — selected from thousands across top institutions like **MNNIT Allahabad**, **IISER Bhopal**, **NIT Patna**, and **IIIT Surat**
-- 💻 Currently working as a **Software Engineer Intern** at **Tryidol Technologies**, contributing to live production systems and scalable backend services
+- 💻 Worked as a **Software Engineer Intern** at **Tryidol Technologies**, contributing to live production systems and scalable backend services
 - 🛠️ **50+ full-stack APIs** built from scratch with a focus on clean architecture, modularity, and scalability
 - 🌐 Delivered **high-impact web apps** used by **500+ real users**, featuring capabilities like **real-time chat**, **AI integrations**, and many more
 - 🎓 Achieved **Elite NPTEL Certification in Database Management Systems** from **IIT Kharagpur**
 - 🧠 Lifelong learner with hands-on expertise in **React**, **Node.js**, **MongoDB**, **Tailwind CSS**, **Socket.IO**, **WebRTC**, and **AI API integration**
 
 ### 🧩 Beyond the Code
-I thrive in high-pressure hackathon environments, love architecting systems that scale, and enjoy collaborating on ambitious projects that aim to make a difference — especially in domains like **women safety analytics**, **education tech**, and **AI-driven automation**.
+I thrive in high-pressure hackathon environments, love architecting systems that scale, and enjoy collaborating on ambitious projects that aim to make a difference.
 
 I’m always open to exciting collaborations, impactful internships, or full-time opportunities where I can grow, contribute, and lead. 
 
@@ -82,7 +82,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - 🔐 JWT Auth, User Profiles, Video Uploads via Cloudinary  
 - 💬 Tweets, Likes, Comments, Subscriptions, Playlists  
 - 📊 Creator Dashboard with Statistics API  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/videotube-backend) | [Live Demo](#)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/videotube-backend) | [Live Demo](https://videotube-frontend-opal.vercel.app)
 
 ### 💬 TalkNest – Real-Time Chat App  
 > *Socket.io-based private messaging with status indicators*
@@ -90,7 +90,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - ⚡ Instant Messaging with Zustand & Socket.io  
 - 🎨 TailwindCSS + DaisyUI for clean, responsive UI  
 - 🔒 Auth with JWT + full error handling  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/talknest)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/talknest) | [Live Demo](talknest-evpa.onrender.com)
 
 ### 🎓 EduConnect – 1-on-1 Doubt Solving Platform  
 > *Built for NIT Patna ByteVerse 7.0 – Finalist*
@@ -98,7 +98,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 - 🧑‍🏫 Teacher-student role-based access  
 - 📷 Image/typed doubt submission  
 - 📹 ZEGO Cloud video calling + feedback system  
-- 🔗 [GitHub Repo](https://github.com/GiriAditya14/education)
+- 🔗 [GitHub Repo](https://github.com/GiriAditya14/education) | [Live Demo](https://education-vert.vercel.app/)
 
 ### 🏢 EventSphere – Event Management System  
 > *Finalist at Arma Code 0, IISER Bhopal*
