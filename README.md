@@ -175,13 +175,13 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
   <img src="https://github-readme-stats.vercel.app/api?username=GiriAditya14&show_icons=true&theme=tokyonight&count_private=true" height="189px"/>
 </div>
 
-<div align="center">
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=GiriAditya14&theme=tokyonight" alt="GitHub Streak with Avatar" height="180px"/>
-</div>
-
 <!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiriAditya14&theme=tokyonight" alt="GitHub Streak" height="180px" />
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=GiriAditya14&theme=tokyonight" alt="GitHub Streak with Avatar" height="180px"/>
 </div> -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiriAditya14&theme=tokyonight" alt="GitHub Streak" height="180px" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiriAditya14&layout=compact&theme=tokyonight" height="210px"/>
