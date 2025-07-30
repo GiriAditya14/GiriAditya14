@@ -162,7 +162,7 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 ## 🏅 Other Achievements
 
 - 🥇 **Winner - Ninja Quest @ AI Club OIST**
-- 🥇 **1st Position - ER Diagram Departmental Competition**
+- 🥇 **1st Position - ER Diagram Departmental Competition (150+ participants)**
 - 🥉 **5th Place - Code Sprint @ OIST (300+ participants)**
 - 🔥 **103rd Rank - Ninja Slayground 2.0 (Coding Ninjas)**
 - 🤝 **SIH 2024 - Volunteer & Stellar Buildathon Participant**
