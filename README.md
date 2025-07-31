@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Aditya Giri
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;6x+Hackathon+Finalist+at+MNNIT%2C+IISER%2C+NITs%2C+IIIT;Building+Scalable+Real-World+Solutions;Always+Learning%2C+Always+Coding!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;5x+Hackathon+Finalist+at+MNNIT%2C+IISER%2C+NITs%2C+IIIT;Building+Scalable+Real-World+Solutions;Always+Learning%2C+Always+Coding!+💻" alt="Typing SVG" />
 </div>
 
 <div align="center">
