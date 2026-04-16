@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Aditya Giri
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Top+6+Finalist+in+Arma+Code+0+(IISER+Bhopal+x+IIIT+Bhopal);Top+5+Finalist+in+Tutedude+Web+Dev+Hackathon;7x+Hackathon+Finalist+at+MNNIT%2C+IISER%2C+NITs%2C+IIIT;Building+Scalable+Real-World+Solutions;Always+Learning%2C+Always+Coding!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Grand+Finalist+in+SIH+2025+(NIT+Durgapur);Top+5+Finalist+in+Ethos+2025+(IIT+Guwahati);Top+6+Finalist+in+Arma+Code+0+(IISER+Bhopal+x+IIIT+Bhopal);12x+Hackathon+Finalist+at+IIT+Guwahati%2C+MNNIT%2C+IISER%2C+NITs;Building+Scalable+Real-World+Solutions;Always+Learning%2C+Always+Coding!+💻" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,9 +20,11 @@
 I’m **Aditya Giri**, a driven and detail-oriented **Full Stack MERN Developer** with a strong foundation in modern web technologies and a passion for solving real-world problems through code. I'm currently pursuing my **B.Tech in Information Technology** at **Oriental Institute of Science & Technology (OIST), Bhopal**, and actively building impactful, production-ready applications at scale.
 
 ### 💼 What I Bring to the Table
-- 🏆 **Top 6 Finalist** | Arma Code 0 | 30 hours National Level Hackathon | **IISER Bhopal x IIIT Bhopal**
-- 🏆 **Top 5 Finalist** | Web Dev Hackathon | 48 hours National Level Hackathon | **Tutedude**
-- 🏆 **7x National Hackathon Finalist** — selected from thousands across top institutions like **MNNIT Allahabad**, **IISER Bhopal**, **NIT Patna**, and **IIIT Surat**
+- 🏆 **Grand Finalist** | SIH 2025 | National Level Hackathon | **NIT Durgapur** | Shortlisted among **top ~1% teams nationwide (68,000+ teams)**
+- 🏆 **Top 5 Finalist** | Ethos 2025 | National Level Hackathon | **IIT Guwahati** | Under **Product Development Challenge (2000+ participants)**
+- 🏆 **Top 6 Finalist** | Arma Code 0 | 30 hours National Level Hackathon | **IISER Bhopal x IIIT Bhopal** | 990+ participants
+- 🏆 **Top 5 Finalist** | Web Dev Hackathon | 48 hours National Level Hackathon | **Tutedude** | 7300+ participants
+- 🏆 **12x National Hackathon Finalist** — selected from thousands across top institutions like **IIT Guwahati**, **MNNIT Allahabad**, **IISER Bhopal**, **NIT Patna**, **IIIT Surat**, and many more...
 - 💻 Worked as a **Software Engineer Intern** at **Tryidol Technologies**, contributing to live production systems and scalable backend services
 - 🛠️ **50+ full-stack APIs** built from scratch with a focus on clean architecture, modularity, and scalability
 - 🌐 Delivered **high-impact web apps** used by **500+ real users**, featuring capabilities like **real-time chat**, **AI integrations**, and many more
@@ -132,6 +134,8 @@ I’m always open to exciting collaborations, impactful internships, or full-tim
 
 | Hackathon | Outcome | Organizer |
 |----------|---------|-----------|
+| **SIH 2025** | 🥇 Grand Finalist | NIT Durgapur |
+| **Ethos 2025** | 🥇 Top 5 Finalist | IIT Guwahati |
 | **Arma Code 0** | 🥇 Top 6 Finalist | IISER Bhopal & IIIT Bhopal |
 | **Web Dev Hackathon** | 🥇 Top 5 Finalist | Tutedude |
 | **Hack36 8.0** | 🏅 Finalist | MNNIT Allahabad |
